@@ -1,0 +1,21 @@
+
+.movie-score-wapper {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.star-ico {
+	width: 20rpx;
+	height: 20rpx;
+	margin-top: 6rpx;
+}
+.movice-score {
+	font-size: 22rpx;
+	color: grey;
+	margin-left: 8rpx;
+}
+
